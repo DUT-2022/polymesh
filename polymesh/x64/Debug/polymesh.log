@@ -1,0 +1,13 @@
+﻿  CrossFace.cpp
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\bfloat16.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\genericpacketmathfunctions.h(675): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dutuser\desktop\polymesh - 副本 - 改\polymesh\polymesh.h(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  main.cpp
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\bfloat16.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\eigen\eigen-3.4.0\eigen\src\core\arch\default\genericpacketmathfunctions.h(675): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dutuser\desktop\polymesh - 副本 - 改\polymesh\polymesh.h(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\dutuser\desktop\polymesh - 副本 - 改\polymesh\main.cpp(22): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  polymesh.vcxproj -> C:\Users\DUTuser\Desktop\polymesh - 副本 - 改\x64\Debug\polymesh.exe
